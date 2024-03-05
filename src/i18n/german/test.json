@@ -1,0 +1,14 @@
+{
+    "unauthorize": "unauthorize",
+    "loginSuccesfully": "Anmeldung erfolgreich",
+    "Loggedoutsuccessfully": "Erfolgreich abgemeldet",
+    "usernotfound": "Benutzer nicht gefunden",
+    "PleaseprovideOTPcode": "Bitte geben Sie den OTP-Code ein",
+    "PleasescantheQRcodewithyourauthenticatorapp": "Bitte scannen Sie den QR-Code mit Ihrer Authenticator-App",
+    "Emailisalreadyregistered": "E-Mail ist bereits registriert",
+    "Usernameisalreadytaken": "Benutzername ist bereits vergeben",
+    "adminregisteredsuccessfully": "Administrator erfolgreich registriert",
+    "AdminLoggedinsuccessfully": "Administrator erfolgreich angemeldet",
+    "Userprofileupdatedsuccessfully": "Benutzerprofil erfolgreich aktualisiert",
+    "Bookingcreatedsuccessfully": "Buchung erfolgreich erstellt"
+  }
