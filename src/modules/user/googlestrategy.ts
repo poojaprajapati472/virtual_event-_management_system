@@ -8,8 +8,8 @@ constructor(
 {
     super(
         {
-            clientID:'317092611756-eqbi7lkne2d5jv1e9asv6iggkv7insdu.apps.googleusercontent.com',
-            clientSecret:'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',
+            clientID:'317092611756-eqbi7lkne2d5jv1e9asuiv6iggkv7insdu.apps.googleusercontent.com',
+            clientSecret:'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mn',
             callbackURL:'http://localhost:5000/user/google/redirect',
             scope:['email','profile'],
         }
