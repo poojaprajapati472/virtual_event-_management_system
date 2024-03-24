@@ -1,0 +1,14 @@
+{
+    "unauthorize": "अनधिकृत",
+    "loginSuccesfully": "लॉगिन सफलतापूर्वक",
+    "Loggedoutsuccessfully": "सफलतापूर्वक लॉग आउट हो गया",
+    "usernotfound": "उपयोगकर्ता नहीं मिला",
+    "PleaseprovideOTPcode": "कृपया OTP कोड प्रदान करें",
+    "PleasescantheQRcodewithyourauthenticatorapp": "कृपया QR कोड को अपने Authenticator ऐप के साथ स्कैन करें",
+    "Emailisalreadyregistered": "ईमेल पहले से पंजीकृत है",
+    "Usernameisalreadytaken": "उपयोगकर्ता नाम पहले से ही लिया गया है",
+    "adminregisteredsuccessfully": "व्यवस्थापक सफलतापूर्वक पंजीकृत हुआ",
+    "AdminLoggedinsuccessfully": "व्यवस्थापक सफलतापूर्वक लॉग इन हुआ",
+    "Userprofileupdatedsuccessfully": "उपयोगकर्ता प्रोफ़ाइल सफलतापूर्वक अपडेट की गई",
+    "Bookingcreatedsuccessfully": "बुकिंग सफलतापूर्वक बनाई गई"
+  }
